@@ -12,15 +12,15 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
+locale                   : "ko-KR"
+title                    : "코드로 똥싸는 블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "icefox"
+description              : "코드똥을 싸자"
 url                      : "https://icefoxand.github.io/codeddong/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "icefoxand/codeddong"
@@ -104,10 +104,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "icefox"
+  avatar           : "/assets/images/bio-photo.png"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  location         : "경상북도 구미"
   email            :
   links:
     - label: "Email"

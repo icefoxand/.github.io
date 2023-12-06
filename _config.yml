@@ -12,15 +12,15 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "코드로 똥싸는 블로그"
+title                    : "코드로 ddong 만드는 블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "icefox"
-description              : "코드똥을 싸자"
+description              : "개발 새발"
 url                      : "https://icefoxand.github.io/codeddong/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "icefoxand/codeddong"
@@ -105,9 +105,9 @@ analytics:
 # Site Author
 author:
   name             : "icefox"
-  avatar           : "/assets/images/bio-photo.png"
-  bio              : "I am an **amazing** person."
-  location         : "경상북도 구미"
+  avatar           : "/assets/images/main-photo.png"
+  bio              : "궁금한 게 많은 개발자 입니다."
+  location         : "경상북도"
   email            :
   links:
     - label: "Email"

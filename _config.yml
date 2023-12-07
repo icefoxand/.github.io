@@ -24,10 +24,10 @@ description              : "개발 새발"
 url                      : "https://icefoxand.github.io/codeddong/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "icefoxand/codeddong"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+teaser                   : "/assets/images/teaser_img.png"
+logo                     : "/assets/images/main-logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
@@ -107,12 +107,12 @@ author:
   name             : "icefox"
   avatar           : "/assets/images/main-photo.png"
   bio              : "궁금한 게 많은 개발자 입니다."
-  location         : "경상북도"
+  location         : "Gumi, Korea"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:jwchoi.v1@gmail.com"
+      url: "mailto:jwchoi.v1@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"

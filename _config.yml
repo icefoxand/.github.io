@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR"
@@ -20,13 +20,13 @@ title                    : "코드로 💩 만드는 IT 블로그"
 title_separator          : "-"
 subtitle                 : "last_modified_at: 2023-12-07"
 name                     : "icefox"
-description              : "icefox의 IT 블로그 입니다"
+description              : "icefox의 IT 블로그"
 url                      : https://icefoxand.github.io
 baseurl                  : "/codeddong"
 repository               : "icefoxand/codeddong"
-teaser                   : "/assets/images/teaser_img.png"
+teaser                   : # "/assets/images/teaser_img.png"
 logo                     : "/assets/images/main-logo.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : " "
 breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
 comments:
@@ -59,11 +59,11 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
+search                   : true
+search_full_content      : true
 search_provider          : # lunr (default), algolia, google
 lunr:
-  search_within_pages    : # true, false (default)
+  search_within_pages    : true
 algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME

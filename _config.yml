@@ -12,15 +12,15 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR"
 title                    : "코드로 💩 만드는 IT 블로그"
 title_separator          : "-"
-subtitle                 : "last_modified_at: 2023-12-07 / started_from: 2023-12-06"
+subtitle                 : "last_modified_at: 2023-12-07"
 name                     : "icefox"
-description              : "개발 새발"
+description              : "icefox의 IT 블로그 입니다"
 url                      : "https://icefoxand.github.io/codeddong/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "icefoxand/codeddong"

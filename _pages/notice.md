@@ -1,3 +1,9 @@
+---
+title: "공지글"
+layout: single
+permalink: /notice
+---
+
 # NOTICE
 ===
 

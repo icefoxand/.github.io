@@ -1,5 +1,7 @@
 # hello, world
 
+## markdown: 마크다운
+
 ### day1. 이미지 삽입을 공부하자 
 
 - md 방식

@@ -4,9 +4,9 @@ main:
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About_icefox"
     url: https://icefoxand.github.io/codeddong/about_icefox
-  - title: "Sample Post"
-    url: https://icefoxand.github.io/codeddong/sample_post
-  - title: "Sample Collections"
-    url: https://icefoxand.github.io/codeddong/sample_collections
+  - title: "공지글"
+    url: https://icefoxand.github.io/codeddong/notice
+  - title: "5가지 강점"
+    url: https://icefoxand.github.io/codeddong/strength_points
   - title: "ChatGPT"
     url: https://chat.openai.com/

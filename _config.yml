@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "코드로 💩 만드는 IT 블로그"
+title                    : "코드로 ddong💩 만드는 IT 블로그"
 title_separator          : "-"
-subtitle                 : "last_modified_at: 2023-12-07"
+subtitle                 : "It ain't over, until it's over"
 name                     : "icefox"
-description              : "icefox의 IT 블로그"
+description              : "코드로 ddong💩 만드는 IT 블로그"
 url                      : https://icefoxand.github.io
 baseurl                  : "/codeddong"
 repository               : "icefoxand/codeddong"

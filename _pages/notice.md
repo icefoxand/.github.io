@@ -1,11 +1,8 @@
 ---
-title: "공지글"
+title: "Notice_공지"
 layout: single
 permalink: /notice
 ---
-
-# NOTICE
-===
 
 * 게시판의 종류
 ---

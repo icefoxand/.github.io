@@ -1,11 +1,8 @@
 ---
-title: "5가지 강점"
+title: "StrengthPoints_강점"
 layout: single
 permalink: /strength_points
 ---
-
-# 나의 강점이 되는 5가지 특성 테마
-===
 
 * 발상, 수집, 개별화, 배움, 최상화
 ---

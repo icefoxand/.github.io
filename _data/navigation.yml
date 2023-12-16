@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "mmistakes"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Interesting_topics"
+    url: https://icefoxand.github.io/codeddong/interesting_topics
   - title: "About_me"
     url: https://icefoxand.github.io/codeddong/about_me
-  - title: "NOTICE"
+  - title: "Notice"
     url: https://icefoxand.github.io/codeddong/notice
-  - title: "STRENGTH"
+  - title: "Strength_points"
     url: https://icefoxand.github.io/codeddong/strength_points
   - title: "ChatGPT"
     url: https://chat.openai.com/

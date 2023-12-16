@@ -1,7 +1,8 @@
 ---
+title: 멘토링 후기
 layout: single
 comments: true
-# other options
+permalink: /study/etc
 ---
 
 ## A님

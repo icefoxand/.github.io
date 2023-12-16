@@ -1,7 +1,8 @@
 ---
+title: hello, world
 layout: single
 comments: true
-# other options
+categories: [study, markdown]
 ---
 
 # hello, world

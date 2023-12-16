@@ -2,7 +2,7 @@
 title: 멘토링 후기
 layout: single
 comments: true
-permalink: /study/etc
+categories: [study, mentoring]
 ---
 
 ## A님
@@ -27,9 +27,6 @@ permalink: /study/etc
 - 오픈소스 도입하여 쓰다가 버그 등을 발견하여 이슈로 올리면 토론이 벌어지고 contributor 될수도 있음
 - 2'때 하고싶은 것 있으면 하고싶다고 말하는게 좋음. 비전공자라고 의기소침 ㄴㄴ. 하고싶은걸 해낼수 있는 능력 기르기. 
 - 중요역량으로 협업 능력과 성실성 꼽으심.
-
-
-- - -
 
 
 ## B님

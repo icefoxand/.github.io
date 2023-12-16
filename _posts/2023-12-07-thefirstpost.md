@@ -1,3 +1,9 @@
+---
+layout: single
+comments: true
+# other options
+---
+
 # hello, world
 
 ## markdown: 마크다운

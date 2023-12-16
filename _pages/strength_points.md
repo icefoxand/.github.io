@@ -1,6 +1,7 @@
 ---
-title: "StrengthPoints_강점"
+title: "strength_points"
 layout: single
+permalink: "/strength_points/"
 # categories: [strengthpoints]
 ---
 

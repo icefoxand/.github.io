@@ -1,6 +1,7 @@
 ---
-title: "About_me"
+title: "about_me"
 layout: single
+permalink: "/about_me/"
 # categories: [aboutme]
 ---
 

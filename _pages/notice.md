@@ -1,6 +1,7 @@
 ---
-title: "Notice_공지"
+title: "notice"
 layout: single
+permalink: "/notice/"
 # categories: [notice]
 ---
 

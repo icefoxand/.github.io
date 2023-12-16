@@ -1,7 +1,7 @@
 ---
 title: "Notice_공지"
 layout: single
-categories: [notice]
+# categories: [notice]
 ---
 
 * 게시판의 종류

@@ -1,7 +1,7 @@
 ---
 title: "About_me"
 layout: single
-categories: [aboutme]
+# categories: [aboutme]
 ---
 
 1. 

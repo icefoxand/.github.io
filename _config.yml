@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 locale                   : "ko-KR"
 title                    : "코드로 💩 만드는 IT 블로그"
 title_separator          : "-"
-subtitle                 : "Itain'tover,untilit'sover - 끝날때까지끝난게아니다"
+subtitle                 : "It ain't over, until it's over"
 name                     : "icefox"
 description              : "성장하는 개발자, icefox 입니다."
 url                      : https://icefoxand.github.io
@@ -106,9 +106,9 @@ analytics:
 author:
   name             : "icefox"
   avatar           : "/assets/images/main-photo.png"
-  bio              : "궁금한 게 많은 개발자 입니다."
+  bio              : "궁금한 게 많은 개발자."
   location         : "Gumi, Korea"
-  email            :
+  email            : "jwchoi.v1@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

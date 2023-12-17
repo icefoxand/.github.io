@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "코드로 💩 만드는 IT 블로그"
+title                    : "code로 💩 만드는 IT blog"
 title_separator          : "-"
 subtitle                 : "It ain't over, until it's over"
 name                     : "icefox"
-description              : "성장하는 개발자, icefox 입니다."
+description              : "성장하는 개발자, icefox 의 IT blog 입니다."
 url                      : https://icefoxand.github.io
 baseurl                  : "/codeddong"
-repository               : "icefoxand/codeddong"
+repository               : "https://github.com/icefoxand/codeddong.git"
 teaser                   : # "/assets/images/teaser_img.png"
 logo                     : "/assets/images/main-logo.png"
 masthead_title           : " "
@@ -112,7 +112,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:jwchoi.v1@gmail.com"
+      # url: "mailto:jwchoi.v1@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"

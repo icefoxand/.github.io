@@ -2,7 +2,6 @@
 title: hello, world
 layout: single
 comments: true
-categories: [etc, markdown]
 ---
 
 # hello, world

@@ -17,7 +17,7 @@ permalink: "/notice/"
 |python|**알고리즘**|...|
 |python|**연구**|...|
 |java|**스프링**|...|
-|books|recommend|...|
+|books|**recommend**|...|
 |news|feedly|...|
 |english|opic|...|
 |etc|공부정리|...|

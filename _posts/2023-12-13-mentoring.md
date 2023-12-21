@@ -2,7 +2,7 @@
 title: 멘토링 후기
 layout: single
 comments: true
-categories: [study, mentoring]
+categories: [etc, mentoring]
 ---
 
 ## A님

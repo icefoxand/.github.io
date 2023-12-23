@@ -2,13 +2,12 @@
 title: hello, world
 layout: single
 comments: true
+toc: true
+categories: [study]
+tag: [markdown,image,video]
 ---
 
-# hello, world
-
-## markdown: 마크다운
-
-### day1. 이미지 삽입을 공부하자 
+# day1. 이미지 삽입
 
 - md 방식
     [logo_img](https://icefoxand.github.io/codeddong/assets/images/main-logo.png)
@@ -22,4 +21,4 @@ comments: true
 ```html
     <img src="https://icefoxand.github.io/codeddong/assets/images/main-logo.png" width="300" height="300">
 ```
-### day2. 동영상 삽입을 공부하자 
+# day2. 동영상 삽입

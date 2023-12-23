@@ -2,7 +2,6 @@
 title: "strength_points"
 layout: single
 permalink: "/strength_points/"
-# categories: [strengthpoints]
 ---
 
 * 발상, 수집, 개별화, 배움, 최상화

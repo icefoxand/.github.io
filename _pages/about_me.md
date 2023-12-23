@@ -2,7 +2,6 @@
 title: "about_me"
 layout: single
 permalink: "/about_me/"
-# categories: [aboutme]
 ---
 
 1. 이름

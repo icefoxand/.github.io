@@ -99,7 +99,7 @@ analytics:
   provider               : "google-gtag"
   google:
     tracking_id          : "G-L9339Q9704"
-    anonymize_ip         : false
+    anonymize_ip         : true
 
 
 # Site Author
@@ -287,6 +287,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
-      related: true
+      related: false

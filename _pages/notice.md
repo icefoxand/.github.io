@@ -2,7 +2,6 @@
 title: "notice"
 layout: single
 permalink: "/notice/"
-# categories: [notice]
 ---
 
 * 게시판의 종류
@@ -19,5 +18,5 @@ permalink: "/notice/"
 |java|**스프링**|...|
 |books|**recommend**|...|
 |news|feedly|...|
-|english|opic|...|
+|eng|opic|...|
 |etc|공부정리|...|

@@ -4,7 +4,7 @@ layout: single
 permalink: "/notice/"
 ---
 
-* 게시판의 종류
+* 카테고리
 -
 
 |대분류|소분류|설명|

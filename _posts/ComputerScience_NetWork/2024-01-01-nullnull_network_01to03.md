@@ -7,7 +7,7 @@ categories: [study]
 tag: [cs,network,nullnull]
 ---
 
-- [널널한개발자 네트워크 기초이론](https://www.youtube.com/playlist?list=PLXvgR_grOs1BFH-TuqFsfHqbh-gpMbFoy) 
+- [널널한개발자 - 네트워크 기초이론](https://www.youtube.com/playlist?list=PLXvgR_grOs1BFH-TuqFsfHqbh-gpMbFoy) 
     - 시작일 2024-01-01. Mon. 10:00
 
 # [1강,2강,3강] 'U/K/HW' than 'OSI 7 layer'

@@ -4,9 +4,11 @@ layout: single
 permalink: "/about_me/"
 ---
 
-# 이름
+# 이름 및 인적 사항
 -
 - JW Choi
+- Ulsan Foreign Language High School (2010.03月 ~ 2013.02月)
+- Hanyang University (2014.03月 ~ 2021.02月)
 
 
 # 연락
@@ -16,29 +18,43 @@ permalink: "/about_me/"
 - github: https://github.com/icefoxand 
 
 
-# 목표
+# 지향하는 목표
 - 
-- 누구나 팀에 넣고 싶은 개발자 되기
+- 팀과 기업에 기여하는, 재미있는 개발자 되기.
+
+
+# 희망 하는 팀 분위기
+-
+- 자유롭게 의견을 개진하고, 서로의 성장을 돕는 팀
+
+
+# 오픈소스 기여 경험
+-
+- .
 
 
 # 전문분야/프로젝트 경험 및 성과
 -
-- 영화추천 알고리즘을 탑재한 웹사이트(2023.11.)
+- [Web] movie-recommend web site (2023.11月)
+- [Mobile-AOS] Spring Back-end (2024.01月~)
 
 
-# 기술스택(언어, 프레임웍, 도구, DB 등)
+# skill stack(language, framework, tools etc) [level, 추가 공부가 필요한 파트]
 -
-- Python
-- Javascript
-- Vue.js
-- Django
-- SQLite
-
+- Ruby [★★]
+- Python [★★★]
+- Javascript [★]
+- Vue.js [★★]
+- Django [★★★, 외부 지도 API를 연결한 서버 만들기] 
+- jekyll [★, SEO 강화]
+- SQLite [★★, 쿼리 명령문 학습]
+- Git [★★★, branch 분리]
+- Jira [★, 에픽. 스프린트 등 자세한 기초 사용]
 
 # 교육 및 인증
 -
-- SAFFY 10th 1학기 수료
-- SAFFY 10th 2학기 진행중
+- SAFFY 10th 1학기 수료 (2023.07.01 ~ 2023.12.01)
+- SAFFY 10th 2학기 (2024.01.02 ~ )
 
 
 # 프로젝트 포트폴리오
@@ -48,7 +64,7 @@ permalink: "/about_me/"
 
 # 추천서 및 수상 경력
 -
-- O
+- .
 
 
 # 소프트 스킬
@@ -60,5 +76,15 @@ permalink: "/about_me/"
 # 언어능력
 -
 - 영어로 기본적인 의사소통을 하는 것에 큰 두려움이 없습니다.
-- OPIC 갱신 예정
+- OPIC 갱신 예정 (2024.01.20)
 - TOEIC 갱신 예정
+
+
+# 취미
+-
+- 스팀, 책읽기, 스피닝
+
+
+# MBTI
+-
+- INTP

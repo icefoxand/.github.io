@@ -1,5 +1,5 @@
 ---
-title: 널널한개발자 네트워크 기초이론(now:3 of 38)
+title: 널널한개발자 - 네트워크 기초이론(now:3 of 38)
 layout: single
 comments: true
 toc: true

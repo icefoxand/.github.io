@@ -108,7 +108,7 @@ author:
   avatar           : "/assets/images/main-photo.png"
   bio              : "궁금한 게 많은 개발자."
   location         : "Gumi, Korea"
-  email            : "jwchoi.v1@gmail.com"
+  email            : # "jwchoi.v1@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

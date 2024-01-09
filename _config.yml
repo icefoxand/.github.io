@@ -73,9 +73,9 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification :
+google_site_verification : 8yB9kNeCsXFb45ZbYgBurzm0_NofCHSGs9wfBOK_Ahw
 bing_site_verification   :
-naver-site-verification  : "f6c5f17b24443ba5ac45e7be76b315ed27c5e268"
+naver-site-verification  : f6c5f17b24443ba5ac45e7be76b315ed27c5e268
 yandex_site_verification :
 baidu_site_verification  :
 

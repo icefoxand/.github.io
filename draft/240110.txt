@@ -1,0 +1,46 @@
+- AndroidManifest.xml
+==============
+intent-filter
+* 수신할 intent를 지정
+
+<action>
+* 수신할 action 명을 지정. 런처에서 클릭하는 아래 action의 intent가 생성됨.
+* android.intent.action.MAIN
+* 런처에서 클릭하면 첫 activity로, 해당 activity를 시작함.
+* action 태그는 하나만 존재할 수 있음.(카테고리와 차이점)
+
+<category>
+* 액션과 함께 수신할 intent의 특징을 나타내는 항목
+* android, intent, category.LAUNCHER
+* 이 액티비티가 최초의 액티비티 임.
+시스템 app 시작 관리자에 목록으로 게재됨
+* category 태그는 여러개 존재 가능.
+
+- MainActivity.kt
+==========
+* AppCompatActivity (Activity의 서브클래스)를 상속 받아서 사용.
+* onCreate(): 액티비티가 실행될 때, 시스템이 호출하는 함수. setContentView() 함수를 통해 화면을 출력. 
+
+---
+onCreate(savedInstanceState: Bundle?) 에서 '?'는 nullable 하다는 뜻임
+
+안드 앱은 백그라운드에 있으면, 늘 시스템에 의해 kill 당할수 있음.
+
+---
+UI/UX 에선 상대위치(상대크기), 절대위치(절대크기)가 중요함...
+
+글자 크기는 sp (Scale independent Pixel)
+나머지 크기는 dp (scale Dependent Pixel)
+
+리소스를 통한 개발
+R.java
+* 기본적으로 프로젝트에서는 보이지 않는 파일
+	* 개발자가 res 밑에 하나의 리소스 파일을 추가하려면 해당 파일명으로 된 int형 변수가 R.java에 생성됨
+	* Kotlin(Java) 파일에서 res 폴더를 참고하고자 할 때 이 클래스를 사용한다.
+* 필요한 리소스는 외부에. 사용자 환경설정에 따라 달라질 수 있는 부분을 코드에서 분리하도록 설계됨.
+<TextView
+	android:text="@string/message"
+
+----
+화면(UI)은 xml 로 만든다.
+

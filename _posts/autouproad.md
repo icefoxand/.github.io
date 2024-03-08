@@ -1,0 +1,1 @@
+auto uproad 성공

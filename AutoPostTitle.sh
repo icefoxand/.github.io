@@ -1,7 +1,11 @@
 #!/bin/bash
 
 # 깃허브 블로그의 로컬 레퍼지토리 디렉토리 주소를 써주세요. 아래의 주소를 본인 로컬 컴퓨터에 맞게 고치면 됩니다.
+<<<<<<< HEAD
 cd /c/Users/SSAFY/Desktop/jiwon/codeddong
+=======
+cd /C/Users/com/Desktop/jiwon_git/codeddong
+>>>>>>> 5765eb75880bdff2ec70a320cf2e09dc92705f34
 
 echo "adding dates to files"
 
